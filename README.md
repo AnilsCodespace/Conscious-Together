@@ -1,6 +1,6 @@
 # Conscious-Together
 Conscious Together: Track thoughts, emotions, challenges, and habits. Meditate.
-#🧘‍♂️ Mindfulness Meditations:# **Access a library of guided meditations to center yourself, reduce stress, and enhance mental clarity.**
+# 🧘‍♂️ Mindfulness Meditations: **Access a library of guided meditations to center yourself, reduce stress, and enhance mental clarity.**
 
 #📈 Emotion Tracker: Understand your emotional landscape by logging thoughts and feelings. Gain valuable insights into your emotional well-being over time.
 
